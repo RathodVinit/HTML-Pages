@@ -30,3 +30,19 @@ console.log(game4)//this must be true;
  console.log(game10, game11 ,game12 ,game13 )
 
 
+//today date is 18/02/2022;//
+var game123 = ((true || true) || false && false);//this is false;
+    console.log(game123);
+
+   
+var game1234 = (true || false && true || true);//we need a output = true;
+console.log(game1234);
+
+var game12345 = (false ||false || false && true || false)//it is false
+console.log("game12345 =",game12345,);
+
+
+
+
+
+
