@@ -12,6 +12,3 @@ console.log(typeof d);//string
 
 var e = 
 console.log(typeof e);//undefined
-
-
-
